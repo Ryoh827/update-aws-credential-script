@@ -6,6 +6,7 @@ This bash script is used to update the AWS user credential by assuming a specifi
 
 - AWS CLI v2
 - `jq` command line JSON processor
+- `aws sso login` has been completed and you are logged in to your AWS account
 
 ## Setup
 
